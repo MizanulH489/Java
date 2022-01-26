@@ -1,0 +1,27 @@
+USAconst.txt
+No of occurrences of A is 2675
+No of occurrences of B is 612
+No of occurrences of C is 1164
+No of occurrences of D is 1230
+No of occurrences of E is 5107
+No of occurrences of F is 1021
+No of occurrences of G is 444
+No of occurrences of H is 2029
+No of occurrences of I is 2433
+No of occurrences of J is 96
+No of occurrences of K is 53
+No of occurrences of L is 1490
+No of occurrences of M is 730
+No of occurrences of N is 2630
+No of occurrences of O is 2729
+No of occurrences of P is 767
+No of occurrences of Q is 46
+No of occurrences of R is 2206
+No of occurrences of S is 2676
+No of occurrences of T is 3751
+No of occurrences of U is 848
+No of occurrences of V is 460
+No of occurrences of W is 375
+No of occurrences of X is 97
+No of occurrences of Y is 504
+No of occurrences of Z is 31
